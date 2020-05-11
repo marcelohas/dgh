@@ -1,0 +1,22 @@
+body{
+      background: #ccc;
+    }
+
+img{
+    border-radius: 6px;
+    max-width: 100%;
+    }
+
+.grid{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-gap: 22px;
+    }
+
+.grid-item{
+    background-color: #fff;
+    border-radius: 6px;
+    padding: 24px;
+
+
+  }
